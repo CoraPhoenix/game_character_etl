@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+fake-useragent
+pandas
+psycopg2-binary
+apache-airflow
+python-dotenv
+streamlit
